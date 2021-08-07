@@ -1,0 +1,71 @@
+
+body {
+    background-image: url(../Portfolio/images/background.jpg);
+  }
+
+ #submit {
+    width: 80px;
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0.507);
+    color: white;
+    font-size: 20px;
+    font-family: 'Caveat', cursive;
+
+ } 
+ 
+  .div1 {
+    width: 300px;
+    height: 100px;
+    border: 1px solid blue;
+  } 
+  
+#todo2
+{
+    width: auto;
+    border: 10px;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 25px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.37);
+  margin: auto;
+  padding: 5px;
+  width: 30%;
+  height: 90%;
+  font-family: 'Caveat', cursive;
+
+} 
+
+
+#text {
+    width: 500px;
+    height: 45px;
+}
+
+#bar {
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+    #list {
+    border: 10px;
+    background-color: rgba(0, 0, 0, 0.418);
+    flex-direction: row;
+    justify-content: center;
+    font-family: 'Caveat', cursive;
+
+}
+.label-size {
+    font-size: 30px;
+    color: white;
+}
+.checkbox-size {
+    width: 30px;
+    height: 30px;
+}
+ 
+#todo {
+    width: 600px;
+    margin:  auto;
+}
